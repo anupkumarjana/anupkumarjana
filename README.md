@@ -5,7 +5,6 @@
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,scss,figma,express,nodejs,mysql,mongodb)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=html,css,js,react,scss,figma,express,nodejs,mysql,mongodb)]
  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
