@@ -1,5 +1,6 @@
-<h1 align="center">Hi! I'm Anup Kumar Jana.</h1>
-<h3 align="center">I'm from Front-End Developer based on Kolkata, India</h3>
+<h1>Hi! I'm Anup Kumar Jana.</h1>
+<hr/>
+<h3>I'm from Front-End Developer based on Kolkata, India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
