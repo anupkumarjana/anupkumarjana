@@ -1,12 +1,14 @@
 <h1>Hi! I'm Anup Kumar Jana.</h1>
 📍 I'm from Front-End Developer based on Kolkata, India
 
-<h3 align="left">Skills</h3>
-<p align="left">
+### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,,js,react,,scss,figma,,express,nodejs,,mysql,mongodb)](https://skillicons.dev)
- </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anupkumarjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupkumarjana" height="30" width="40" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=scss,figma)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=express,nodejs)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/anupkumarjana/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
