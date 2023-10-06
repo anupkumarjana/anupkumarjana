@@ -1,7 +1,7 @@
 <h1>Hi! I'm Anup Kumar Jana.</h1>
 📍 I'm from Front-End Developer based on Kolkata, India
 
-<!-- <h3 align="left">Skills</h3> -->
+<h3 align="left">Skills</h3>
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,scss,figma,express,nodejs,mysql,mongodb)](https://skillicons.dev)
