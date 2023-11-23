@@ -1,7 +1,7 @@
 Hi! I'm Anup Kumar Jana
 ========================================================================================================================================
 
-📍 I'm from Front-End Developer based on Kolkata, India
+📍 I'm an Front-End Developer based on Kolkata, India
 <br/>
 ### Skills
 
