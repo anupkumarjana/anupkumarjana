@@ -13,5 +13,5 @@ Hi! I'm Anup Kumar Jana
   <a href="https://www.linkedin.com/in/anupkumarjana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> <br/> <br/>
-  <a href="https://anupz.dev"  target="_blank"><img src="https://github.com/anupkumarjana/Restuarant-Billing-System/blob/main/huge%20(1).png" alt="portfolio" /></a>
+  <a href="https://anupz.dev"  target="_blank"><img src="https://github.com/anupkumarjana/Restuarant-Billing-System/blob/main/huge%20(2)%20(1).png" alt="portfolio" /></a>
 </div>
