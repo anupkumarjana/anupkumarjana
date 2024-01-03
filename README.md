@@ -12,6 +12,6 @@ Hi! I'm Anup Kumar Jana
 <div id="badges">
   <a href="https://www.linkedin.com/in/anupkumarjana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> &nbsp
   <a href="https://anupz.dev"  target="_blank"><img src="https://github.com/anupkumarjana/Restuarant-Billing-System/blob/main/huge%20(2)%20(1).png" alt="portfolio" /></a>
 </div>
